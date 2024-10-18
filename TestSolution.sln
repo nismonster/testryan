@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryan.Console", "Ryan.Console\Ryan.Console.csproj", "{DFFAA10F-C745-4B57-9043-68C3E5EB6909}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ryan.API", "Ryan.API\Ryan.API.csproj", "{13679E48-9D97-4385-ACB4-0CE63609D118}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFFAA10F-C745-4B57-9043-68C3E5EB6909}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFFAA10F-C745-4B57-9043-68C3E5EB6909}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFFAA10F-C745-4B57-9043-68C3E5EB6909}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFFAA10F-C745-4B57-9043-68C3E5EB6909}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13679E48-9D97-4385-ACB4-0CE63609D118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13679E48-9D97-4385-ACB4-0CE63609D118}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13679E48-9D97-4385-ACB4-0CE63609D118}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13679E48-9D97-4385-ACB4-0CE63609D118}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B9E83CB-50B5-4B81-A5F1-7E8D102BE800}
+	EndGlobalSection
+EndGlobal
